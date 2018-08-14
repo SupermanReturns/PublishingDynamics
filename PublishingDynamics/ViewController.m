@@ -21,7 +21,9 @@
     
     UIButton *btn=[[UIButton alloc]init];
     btn.frame=CGRectMake(150, 200,95 ,45 );
+    btn.backgroundColor=[UIColor yellowColor];
     [btn setTitle:@"发布" forState:UIControlStateNormal];
+    [btn setTintColor:[UIColor blackColor]];
     [btn addTarget:self action:@selector(publish) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:btn];
 }

@@ -88,6 +88,7 @@
         MImaLibTool *imgLibTool = [MImaLibTool shareMImaLibTool];
         [imgLibTool.lib writeImageToSavedPhotosAlbum:[theImage CGImage] orientation:(ALAssetOrientation)[theImage imageOrientation] completionBlock:^(NSURL *assetURL, NSError *error){
             if (error) {
+                
             } else {
                 
                 //获取图片路径

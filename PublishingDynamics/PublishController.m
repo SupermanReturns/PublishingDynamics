@@ -63,7 +63,7 @@
     [self initPickerView];
     
     [self initViews];
-    
+    self.view.backgroundColor=[UIColor whiteColor];
 }
 /**
  *  取消输入

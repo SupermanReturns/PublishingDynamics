@@ -8,7 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-
+#import <AssetsLibrary/AssetsLibrary.h>
+#import "PhotoCell.h"
+#import "JJPhotoManeger.h"
+#import "ImagePickerSheet.h"
 
 @protocol PublishBaseViewDelegate <NSObject>
 @optional
