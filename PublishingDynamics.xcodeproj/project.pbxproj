@@ -15,6 +15,27 @@
 		CF39045F21218919001DB640 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CF39045E21218919001DB640 /* main.m */; };
 		CF39046921218919001DB640 /* PublishingDynamicsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CF39046821218919001DB640 /* PublishingDynamicsTests.m */; };
 		CF39047421218919001DB640 /* PublishingDynamicsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CF39047321218919001DB640 /* PublishingDynamicsUITests.m */; };
+		CF39048321227460001DB640 /* PublishBaseController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF39048221227460001DB640 /* PublishBaseController.m */; };
+		CF39048A21227885001DB640 /* ImagePickerSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = CF39048921227885001DB640 /* ImagePickerSheet.m */; };
+		CF3904B5212278FB001DB640 /* SDDemoItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = CF39048F212278FA001DB640 /* SDDemoItemView.m */; };
+		CF3904B6212278FB001DB640 /* SDLoopProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = CF390492212278FA001DB640 /* SDLoopProgressView.m */; };
+		CF3904B7212278FB001DB640 /* SDBaseProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = CF390494212278FA001DB640 /* SDBaseProgressView.m */; };
+		CF3904B8212278FB001DB640 /* MImaCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CF390498212278FB001DB640 /* MImaCell.xib */; };
+		CF3904B9212278FB001DB640 /* MShowAllGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = CF390499212278FB001DB640 /* MShowAllGroup.m */; };
+		CF3904BA212278FB001DB640 /* MImaLibTool.m in Sources */ = {isa = PBXBuildFile; fileRef = CF39049A212278FB001DB640 /* MImaLibTool.m */; };
+		CF3904BB212278FB001DB640 /* MGroupCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CF39049E212278FB001DB640 /* MGroupCell.xib */; };
+		CF3904BC212278FB001DB640 /* MImaCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CF39049F212278FB001DB640 /* MImaCell.m */; };
+		CF3904BD212278FB001DB640 /* MShowGroupAllSet.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3904A0212278FB001DB640 /* MShowGroupAllSet.m */; };
+		CF3904BE212278FB001DB640 /* MGroupCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3904A1212278FB001DB640 /* MGroupCell.m */; };
+		CF3904BF212278FB001DB640 /* MFlowLayOut.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3904A7212278FB001DB640 /* MFlowLayOut.m */; };
+		CF3904C0212278FB001DB640 /* MHeaderImaCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3904A8212278FB001DB640 /* MHeaderImaCell.m */; };
+		CF3904C1212278FB001DB640 /* MHeadImaView.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3904AA212278FB001DB640 /* MHeadImaView.m */; };
+		CF3904C2212278FB001DB640 /* JJOneScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3904B0212278FB001DB640 /* JJOneScrollView.m */; };
+		CF3904C3212278FB001DB640 /* JJMainScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3904B1212278FB001DB640 /* JJMainScrollView.m */; };
+		CF3904C4212278FB001DB640 /* JJPhotoManeger.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3904B2212278FB001DB640 /* JJPhotoManeger.m */; };
+		CF3904C5212278FB001DB640 /* JJPhoto.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3904B3212278FB001DB640 /* JJPhoto.m */; };
+		CF3904C6212278FB001DB640 /* none.png in Resources */ = {isa = PBXBuildFile; fileRef = CF3904B4212278FB001DB640 /* none.png */; };
+		CF3904C921227A50001DB640 /* PublishController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3904C821227A50001DB640 /* PublishController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +72,47 @@
 		CF39046F21218919001DB640 /* PublishingDynamicsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PublishingDynamicsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF39047321218919001DB640 /* PublishingDynamicsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PublishingDynamicsUITests.m; sourceTree = "<group>"; };
 		CF39047521218919001DB640 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF39048121227460001DB640 /* PublishBaseController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PublishBaseController.h; sourceTree = "<group>"; };
+		CF39048221227460001DB640 /* PublishBaseController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PublishBaseController.m; sourceTree = "<group>"; };
+		CF39048821227885001DB640 /* ImagePickerSheet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImagePickerSheet.h; sourceTree = "<group>"; };
+		CF39048921227885001DB640 /* ImagePickerSheet.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImagePickerSheet.m; sourceTree = "<group>"; };
+		CF39048E212278FA001DB640 /* SDDemoItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDDemoItemView.h; sourceTree = "<group>"; };
+		CF39048F212278FA001DB640 /* SDDemoItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDDemoItemView.m; sourceTree = "<group>"; };
+		CF390491212278FA001DB640 /* SDBaseProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDBaseProgressView.h; sourceTree = "<group>"; };
+		CF390492212278FA001DB640 /* SDLoopProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDLoopProgressView.m; sourceTree = "<group>"; };
+		CF390493212278FA001DB640 /* SDProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDProgressView.h; sourceTree = "<group>"; };
+		CF390494212278FA001DB640 /* SDBaseProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDBaseProgressView.m; sourceTree = "<group>"; };
+		CF390495212278FA001DB640 /* SDLoopProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDLoopProgressView.h; sourceTree = "<group>"; };
+		CF390497212278FB001DB640 /* MImaCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MImaCell.h; sourceTree = "<group>"; };
+		CF390498212278FB001DB640 /* MImaCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MImaCell.xib; sourceTree = "<group>"; };
+		CF390499212278FB001DB640 /* MShowAllGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MShowAllGroup.m; sourceTree = "<group>"; };
+		CF39049A212278FB001DB640 /* MImaLibTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MImaLibTool.m; sourceTree = "<group>"; };
+		CF39049B212278FB001DB640 /* MGroupCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MGroupCell.h; sourceTree = "<group>"; };
+		CF39049C212278FB001DB640 /* MShowGroupAllSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MShowGroupAllSet.h; sourceTree = "<group>"; };
+		CF39049D212278FB001DB640 /* ImagePickerDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImagePickerDefine.h; sourceTree = "<group>"; };
+		CF39049E212278FB001DB640 /* MGroupCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MGroupCell.xib; sourceTree = "<group>"; };
+		CF39049F212278FB001DB640 /* MImaCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MImaCell.m; sourceTree = "<group>"; };
+		CF3904A0212278FB001DB640 /* MShowGroupAllSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MShowGroupAllSet.m; sourceTree = "<group>"; };
+		CF3904A1212278FB001DB640 /* MGroupCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MGroupCell.m; sourceTree = "<group>"; };
+		CF3904A2212278FB001DB640 /* MShowAllGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MShowAllGroup.h; sourceTree = "<group>"; };
+		CF3904A3212278FB001DB640 /* MImaLibTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MImaLibTool.h; sourceTree = "<group>"; };
+		CF3904A5212278FB001DB640 /* MHeaderImaCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHeaderImaCell.h; sourceTree = "<group>"; };
+		CF3904A6212278FB001DB640 /* MHeadImaView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHeadImaView.h; sourceTree = "<group>"; };
+		CF3904A7212278FB001DB640 /* MFlowLayOut.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MFlowLayOut.m; sourceTree = "<group>"; };
+		CF3904A8212278FB001DB640 /* MHeaderImaCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHeaderImaCell.m; sourceTree = "<group>"; };
+		CF3904A9212278FB001DB640 /* MFlowLayOut.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MFlowLayOut.h; sourceTree = "<group>"; };
+		CF3904AA212278FB001DB640 /* MHeadImaView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHeadImaView.m; sourceTree = "<group>"; };
+		CF3904AC212278FB001DB640 /* JJPhotoManeger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJPhotoManeger.h; sourceTree = "<group>"; };
+		CF3904AD212278FB001DB640 /* JJMainScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJMainScrollView.h; sourceTree = "<group>"; };
+		CF3904AE212278FB001DB640 /* JJOneScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJOneScrollView.h; sourceTree = "<group>"; };
+		CF3904AF212278FB001DB640 /* JJPhoto.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJPhoto.h; sourceTree = "<group>"; };
+		CF3904B0212278FB001DB640 /* JJOneScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJOneScrollView.m; sourceTree = "<group>"; };
+		CF3904B1212278FB001DB640 /* JJMainScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJMainScrollView.m; sourceTree = "<group>"; };
+		CF3904B2212278FB001DB640 /* JJPhotoManeger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJPhotoManeger.m; sourceTree = "<group>"; };
+		CF3904B3212278FB001DB640 /* JJPhoto.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJPhoto.m; sourceTree = "<group>"; };
+		CF3904B4212278FB001DB640 /* none.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = none.png; sourceTree = "<group>"; };
+		CF3904C721227A50001DB640 /* PublishController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PublishController.h; sourceTree = "<group>"; };
+		CF3904C821227A50001DB640 /* PublishController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PublishController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,11 +167,16 @@
 				CF39045021218913001DB640 /* AppDelegate.m */,
 				CF39045221218913001DB640 /* ViewController.h */,
 				CF39045321218913001DB640 /* ViewController.m */,
+				CF3904842122753D001DB640 /* Publish */,
 				CF39045521218913001DB640 /* Main.storyboard */,
 				CF39045821218919001DB640 /* Assets.xcassets */,
 				CF39045A21218919001DB640 /* LaunchScreen.storyboard */,
 				CF39045D21218919001DB640 /* Info.plist */,
 				CF39045E21218919001DB640 /* main.m */,
+				CF39048121227460001DB640 /* PublishBaseController.h */,
+				CF39048221227460001DB640 /* PublishBaseController.m */,
+				CF3904C721227A50001DB640 /* PublishController.h */,
+				CF3904C821227A50001DB640 /* PublishController.m */,
 			);
 			path = PublishingDynamics;
 			sourceTree = "<group>";
@@ -130,6 +197,122 @@
 				CF39047521218919001DB640 /* Info.plist */,
 			);
 			path = PublishingDynamicsUITests;
+			sourceTree = "<group>";
+		};
+		CF3904842122753D001DB640 /* Publish */ = {
+			isa = PBXGroup;
+			children = (
+				CF39048621227568001DB640 /* ImagePicker */,
+				CF39048521227559001DB640 /* images */,
+			);
+			path = Publish;
+			sourceTree = "<group>";
+		};
+		CF39048521227559001DB640 /* images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		CF39048621227568001DB640 /* ImagePicker */ = {
+			isa = PBXGroup;
+			children = (
+				CF390487212277EC001DB640 /* Lib */,
+				CF39048821227885001DB640 /* ImagePickerSheet.h */,
+				CF39048921227885001DB640 /* ImagePickerSheet.m */,
+			);
+			path = ImagePicker;
+			sourceTree = "<group>";
+		};
+		CF390487212277EC001DB640 /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+				CF3904A4212278FB001DB640 /* CollectionViewInfo */,
+				CF3904AB212278FB001DB640 /* JJPhotoViewer */,
+				CF390496212278FB001DB640 /* MImgpicker */,
+				CF39048C212278FA001DB640 /* SDProgressView */,
+			);
+			path = Lib;
+			sourceTree = "<group>";
+		};
+		CF39048C212278FA001DB640 /* SDProgressView */ = {
+			isa = PBXGroup;
+			children = (
+				CF39048D212278FA001DB640 /* View */,
+				CF390490212278FA001DB640 /* Lib */,
+			);
+			path = SDProgressView;
+			sourceTree = "<group>";
+		};
+		CF39048D212278FA001DB640 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				CF39048E212278FA001DB640 /* SDDemoItemView.h */,
+				CF39048F212278FA001DB640 /* SDDemoItemView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		CF390490212278FA001DB640 /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+				CF390491212278FA001DB640 /* SDBaseProgressView.h */,
+				CF390492212278FA001DB640 /* SDLoopProgressView.m */,
+				CF390493212278FA001DB640 /* SDProgressView.h */,
+				CF390494212278FA001DB640 /* SDBaseProgressView.m */,
+				CF390495212278FA001DB640 /* SDLoopProgressView.h */,
+			);
+			path = Lib;
+			sourceTree = "<group>";
+		};
+		CF390496212278FB001DB640 /* MImgpicker */ = {
+			isa = PBXGroup;
+			children = (
+				CF390497212278FB001DB640 /* MImaCell.h */,
+				CF390498212278FB001DB640 /* MImaCell.xib */,
+				CF390499212278FB001DB640 /* MShowAllGroup.m */,
+				CF39049A212278FB001DB640 /* MImaLibTool.m */,
+				CF39049B212278FB001DB640 /* MGroupCell.h */,
+				CF39049C212278FB001DB640 /* MShowGroupAllSet.h */,
+				CF39049D212278FB001DB640 /* ImagePickerDefine.h */,
+				CF39049E212278FB001DB640 /* MGroupCell.xib */,
+				CF39049F212278FB001DB640 /* MImaCell.m */,
+				CF3904A0212278FB001DB640 /* MShowGroupAllSet.m */,
+				CF3904A1212278FB001DB640 /* MGroupCell.m */,
+				CF3904A2212278FB001DB640 /* MShowAllGroup.h */,
+				CF3904A3212278FB001DB640 /* MImaLibTool.h */,
+			);
+			path = MImgpicker;
+			sourceTree = "<group>";
+		};
+		CF3904A4212278FB001DB640 /* CollectionViewInfo */ = {
+			isa = PBXGroup;
+			children = (
+				CF3904A5212278FB001DB640 /* MHeaderImaCell.h */,
+				CF3904A6212278FB001DB640 /* MHeadImaView.h */,
+				CF3904A7212278FB001DB640 /* MFlowLayOut.m */,
+				CF3904A8212278FB001DB640 /* MHeaderImaCell.m */,
+				CF3904A9212278FB001DB640 /* MFlowLayOut.h */,
+				CF3904AA212278FB001DB640 /* MHeadImaView.m */,
+			);
+			path = CollectionViewInfo;
+			sourceTree = "<group>";
+		};
+		CF3904AB212278FB001DB640 /* JJPhotoViewer */ = {
+			isa = PBXGroup;
+			children = (
+				CF3904AC212278FB001DB640 /* JJPhotoManeger.h */,
+				CF3904AD212278FB001DB640 /* JJMainScrollView.h */,
+				CF3904AE212278FB001DB640 /* JJOneScrollView.h */,
+				CF3904AF212278FB001DB640 /* JJPhoto.h */,
+				CF3904B0212278FB001DB640 /* JJOneScrollView.m */,
+				CF3904B1212278FB001DB640 /* JJMainScrollView.m */,
+				CF3904B2212278FB001DB640 /* JJPhotoManeger.m */,
+				CF3904B3212278FB001DB640 /* JJPhoto.m */,
+				CF3904B4212278FB001DB640 /* none.png */,
+			);
+			path = JJPhotoViewer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,9 +418,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF3904BB212278FB001DB640 /* MGroupCell.xib in Resources */,
 				CF39045C21218919001DB640 /* LaunchScreen.storyboard in Resources */,
+				CF3904B8212278FB001DB640 /* MImaCell.xib in Resources */,
 				CF39045921218919001DB640 /* Assets.xcassets in Resources */,
 				CF39045721218913001DB640 /* Main.storyboard in Resources */,
+				CF3904C6212278FB001DB640 /* none.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,9 +448,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF39048A21227885001DB640 /* ImagePickerSheet.m in Sources */,
+				CF3904BD212278FB001DB640 /* MShowGroupAllSet.m in Sources */,
+				CF3904B9212278FB001DB640 /* MShowAllGroup.m in Sources */,
+				CF3904B7212278FB001DB640 /* SDBaseProgressView.m in Sources */,
+				CF3904BA212278FB001DB640 /* MImaLibTool.m in Sources */,
+				CF3904C0212278FB001DB640 /* MHeaderImaCell.m in Sources */,
+				CF3904C5212278FB001DB640 /* JJPhoto.m in Sources */,
+				CF39048321227460001DB640 /* PublishBaseController.m in Sources */,
+				CF3904B6212278FB001DB640 /* SDLoopProgressView.m in Sources */,
 				CF39045421218913001DB640 /* ViewController.m in Sources */,
+				CF3904BC212278FB001DB640 /* MImaCell.m in Sources */,
+				CF3904C1212278FB001DB640 /* MHeadImaView.m in Sources */,
 				CF39045F21218919001DB640 /* main.m in Sources */,
+				CF3904C2212278FB001DB640 /* JJOneScrollView.m in Sources */,
+				CF3904BE212278FB001DB640 /* MGroupCell.m in Sources */,
+				CF3904C921227A50001DB640 /* PublishController.m in Sources */,
+				CF3904C3212278FB001DB640 /* JJMainScrollView.m in Sources */,
 				CF39045121218913001DB640 /* AppDelegate.m in Sources */,
+				CF3904B5212278FB001DB640 /* SDDemoItemView.m in Sources */,
+				CF3904C4212278FB001DB640 /* JJPhotoManeger.m in Sources */,
+				CF3904BF212278FB001DB640 /* MFlowLayOut.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -434,6 +638,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 78S8WECG83;
 				INFOPLIST_FILE = PublishingDynamics/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -450,6 +655,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 78S8WECG83;
 				INFOPLIST_FILE = PublishingDynamics/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
