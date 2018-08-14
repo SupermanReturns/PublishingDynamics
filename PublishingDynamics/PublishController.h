@@ -8,6 +8,23 @@
 
 #import "PublishBaseController.h"
 
+
 @interface PublishController : PublishBaseController
+
+
+//背景
+@property(nonatomic,strong) UIView *noteTextBackgroudView;
+
+//备注
+@property(nonatomic,strong) UITextView *noteTextView;
+
+//文字个数提示label
+@property(nonatomic,strong) UILabel *textNumberLabel;
+
+//文字说明
+@property(nonatomic,strong) UILabel *explainLabel;
+
+//发布按钮
+@property(nonatomic,strong) UIButton *submitBtn;
 
 @end

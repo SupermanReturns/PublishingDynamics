@@ -104,7 +104,6 @@
             }
         }];
     }
-    
 }
 #pragma mark - 完成选择后返回的图片Array(ALAsset*)
 - (void)finishSelectImg{

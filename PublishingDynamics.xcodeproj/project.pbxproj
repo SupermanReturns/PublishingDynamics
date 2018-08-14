@@ -168,15 +168,15 @@
 				CF39045221218913001DB640 /* ViewController.h */,
 				CF39045321218913001DB640 /* ViewController.m */,
 				CF3904842122753D001DB640 /* Publish */,
+				CF39048121227460001DB640 /* PublishBaseController.h */,
+				CF39048221227460001DB640 /* PublishBaseController.m */,
+				CF3904C721227A50001DB640 /* PublishController.h */,
+				CF3904C821227A50001DB640 /* PublishController.m */,
 				CF39045521218913001DB640 /* Main.storyboard */,
 				CF39045821218919001DB640 /* Assets.xcassets */,
 				CF39045A21218919001DB640 /* LaunchScreen.storyboard */,
 				CF39045D21218919001DB640 /* Info.plist */,
 				CF39045E21218919001DB640 /* main.m */,
-				CF39048121227460001DB640 /* PublishBaseController.h */,
-				CF39048221227460001DB640 /* PublishBaseController.m */,
-				CF3904C721227A50001DB640 /* PublishController.h */,
-				CF3904C821227A50001DB640 /* PublishController.m */,
 			);
 			path = PublishingDynamics;
 			sourceTree = "<group>";
