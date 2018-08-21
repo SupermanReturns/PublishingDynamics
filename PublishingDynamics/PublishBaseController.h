@@ -19,6 +19,7 @@
 @end
 
 @interface PublishBaseController : UIViewController
+
 @property (nonatomic, assign) id<PublishBaseViewDelegate> delegate;
 
 @property (nonatomic, strong) UICollectionView *pickerCollectionView;

@@ -40,13 +40,13 @@ static NSString * const reuseIdentifier = @"PhotoCell";
 
     
 }
-//HMShareCollectionViewCell *cell = (HMShareCollectionViewCell *)[collectionView dequeueReusableCellWithReuseIdentifier:@"cell" forIndexPath:indexPath];
 //初始化collectionView
 -(void)initPickerView{
     _showActionSheetViewController = self;
     
     UICollectionViewFlowLayout *layout = [[UICollectionViewFlowLayout alloc] init];
     self.pickerCollectionView = [[UICollectionView alloc] initWithFrame:self.view.frame collectionViewLayout:layout];
+    _pickerCollectionView.backgroundColor=[UIColor yellowColor];
     if (_showInView) {
         [_showInView addSubview:self.pickerCollectionView];
     }else{
